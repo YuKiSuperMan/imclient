@@ -5,7 +5,7 @@ package yuki.software.imclient.core.tcp.client;
  * @description: 测试客户端
  * @author: YuKi
  * @create: 2018-11-12 23:46
- * @email: 1040929773@qq.com
+ * @email: 1040929773@qq.com 111
  */
 public class TestClient {
 
